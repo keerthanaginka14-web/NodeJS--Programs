@@ -1,0 +1,16 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+
+<bookstore>
+    <book>
+        <title>Web Technology</title>
+        <author>John Smith</author>
+        <price>450</price>
+    </book>
+    <book>
+        <title>Java Programming</title>
+        <author>James Brown</author>
+        <price>550</price>
+    </book>
+</bookstore>
