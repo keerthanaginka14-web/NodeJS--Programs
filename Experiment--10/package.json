@@ -1,0 +1,13 @@
+
+{
+  "name": "experiment-10-student-api",
+  "version": "1.0.0",
+  "description": "Express REST API for student CRUD operations",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
