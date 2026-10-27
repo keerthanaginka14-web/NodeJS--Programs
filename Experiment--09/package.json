@@ -1,0 +1,10 @@
+
+{
+  "name": "experiment-09-node-server",
+  "version": "1.0.0",
+  "description": "Node.js HTTP server using OS, Path and Event modules",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
