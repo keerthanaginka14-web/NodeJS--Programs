@@ -1,0 +1,17 @@
+
+{
+  "name": "experiment-13-react-weather",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "chart.js": "latest",
+    "react-chartjs-2": "latest"
+  }
+}
